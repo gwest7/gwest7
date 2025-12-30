@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here are some pretty things to look at:
+
+[Creation Day](https://gwest7.github.io/creation-day/)
+[Triangular](https://gwest7.github.io/triangular/)
+
 <!--
 **gwest7/gwest7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
